@@ -20,11 +20,6 @@ Learn to Code
 **Free** beginner to intermediate guides on web development  
 *(HTML, CSS, JavaScript)*
 
-#### [Gibbon](https://gibbon.co/topics/programming)
-**Mixed** curated learning tracks for computer programming  
-*(web development, JavaScript, AngularJS, Ruby, Rails, iOS, Haskell, computer science)*
-
-
 #### [Free Code Camp](http://www.freecodecamp.com/)
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.  
 *(HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
@@ -32,7 +27,6 @@ Learn to Code
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **Free** SQL courses with interactive exercises and quizzes  
 *(SQL, database concepts)*
-
 
 ### Code Challenges
 
@@ -57,3 +51,10 @@ Learn to Code
 - [Computers From The Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA) (1985) - Richard Feynman Computer Heuristics Lecture. Not about computer history per se, but about how computers work
 - [The Secret History of Silicon Valley](https://www.youtube.com/watch?v=ZTC_RxWN_xo) (2008) - Talk by Steve Blank at the Computer History Museum
 - [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) (2013..ehh 1973) - Humorous talk about the future of programming as seen from 1973
+
+## Other Curated Lists
+
+#### [Gibbon](https://gibbon.co/topics/programming)
+**Mixed** curated learning tracks for computer programming  
+*(web development, JavaScript, AngularJS, Ruby, Rails, iOS, Haskell, computer science)*
+
