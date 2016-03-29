@@ -16,6 +16,16 @@ Learn to Code
 **Free** tutorial for how to do layout with CSS  
 *(CSS)*
 
+#### [Vertabelo Academy](https://academy.vertabelo.com/)
+**Free** SQL courses with interactive exercises and quizzes  
+*(SQL, database concepts)*
+
+### Courses
+
+#### [marksheet.io](http://marksheet.io/)
+**Free** Beautifully designed HTML & CSS tutorials for beginners
+*(HTML, CSS)*
+
 #### [learn.shayhowe.com](http://learn.shayhowe.com/)
 **Free** beginner to intermediate guides on web development  
 *(HTML, CSS, JavaScript)*
@@ -24,9 +34,6 @@ Learn to Code
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.  
 *(HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
 
-#### [Vertabelo Academy](https://academy.vertabelo.com/)
-**Free** SQL courses with interactive exercises and quizzes  
-*(SQL, database concepts)*
 
 ### Code Challenges
 
