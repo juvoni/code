@@ -54,12 +54,17 @@ Learn to Code
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
 ### Text Editors
-### [Sublime Text](https://www.sublimetext.com/)
+#### [Sublime Text](https://www.sublimetext.com/)
 ![Sublime](assets/sublime.png)
-### [Visual Studio Code](https://code.visualstudio.com/)
+#### [Visual Studio Code](https://code.visualstudio.com/)
 ![Visual Studio Code](assets/visual.ico)
-### [Atom](https://atom.io/)
+#### [Atom](https://atom.io/)
 ![Atom](assets/atom.png)
+
+### Live Coding Tools
+[JS Bin](https://jsfiddle.net/) - Collaborative JavaScript Debugging
+[JSFiddle](https://jsbin.com) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
+
 
 ### Talks
 
