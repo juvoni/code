@@ -53,6 +53,14 @@ Learn to Code
 **Free** code challenges. Compare your solution with those of others.  
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
+### Text Editors
+### [Sublime Text](https://www.sublimetext.com/)
+![Sublime](assets/sublime.png)
+### [Visual Studio Code](https://code.visualstudio.com/)
+![Visual Studio Code](assets/visual.ico)
+### [Atom](https://atom.io/)
+![Atom](assets/atom.png)
+
 ### Talks
 
 - [Computers From The Inside Out](https://www.youtube.com/watch?v=EKWGGDXe5MA) (1985) - Richard Feynman Computer Heuristics Lecture. Not about computer history per se, but about how computers work
