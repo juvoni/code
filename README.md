@@ -63,6 +63,7 @@ Learn to Code
 
 ### Live Coding Tools
 [JS Bin](https://jsfiddle.net/) - Collaborative JavaScript Debugging
+
 [JSFiddle](https://jsbin.com) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 
 
