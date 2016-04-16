@@ -53,6 +53,14 @@ Learn to Code
 **Free** code challenges. Compare your solution with those of others.  
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
+#### [HackerRank](http://www.hackerrank.com/)
+**Free** programming problems and contests in different domains of Computer Science
+*(Most common languages, and even a few uncommon ones)*
+
+#### [HackerEarth](http://www.hackerearth.com/)
+**Free** coding challenges for data structures and algorithms
+*(Most common languages)*
+
 ### Text Editors
 #### [Sublime Text](https://www.sublimetext.com/)
 ![Sublime](assets/sublime.png)
@@ -93,4 +101,3 @@ Learn to Code
 #### [Gibbon](https://gibbon.co/topics/programming)
 **Mixed** curated learning tracks for computer programming  
 *(web development, JavaScript, AngularJS, Ruby, Rails, iOS, Haskell, computer science)*
-
